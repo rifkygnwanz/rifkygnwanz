@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rifkygnwanz&label=Profile%20views&color=0e75b6&style=flat" alt="rifkygnwanz" /> </p>
 
-- 🔭 I’m currently working on **Mobile POS Snack**
+- 🔭 I’m currently working on **Oxinos**
 
 - 🌱 I’m currently learning **Flutter**
 
